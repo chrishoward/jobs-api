@@ -1,0 +1,19 @@
+{
+  "name": "jobs-api",
+  "version": "1.0.0",
+  "description": "Record and display data relating to software development jobs and demand in the industry. This repository covers the API service for the application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishoward/jobs-api.git"
+  },
+  "author": "Chris Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrishoward/jobs-api/issues"
+  },
+  "homepage": "https://github.com/chrishoward/jobs-api#readme"
+}
